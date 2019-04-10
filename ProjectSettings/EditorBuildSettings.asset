@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loginpage_Amigos.unity
+    guid: 91bfad6123d6a604aa1997e4190287fe
+  - enabled: 1
+    path: Assets/Scenes/VRGame.unity
+    guid: c3f3f46d91fe1ae48a5861c034a3ebc3
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: af28b16e265174b48997ab672212e849
+  - enabled: 1
+    path: Assets/Scenes/area1.unity
+    guid: 608237fab2384b54bb907768a2767df2
+  - enabled: 0
+    path: 
+    guid: 283b0e6eac4f6524ca44bcaf4a6a1822
+  - enabled: 1
+    path: Assets/Scenes/GoAgain2VR.unity
+    guid: f550403626b0e08448f029b83840137a
+  - enabled: 1
+    path: Assets/Scenes/3DLevel2.unity
+    guid: 523aade3244f80f4da4df9d5220b3bbb
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 0194b71897ba53e468418a9393cb42a9
+  - enabled: 1
+    path: Assets/Scenes/GoVR.unity
+    guid: 5beead69929610a4e9ae2ba6a6578e9c
+  - enabled: 1
+    path: Assets/Scenes/GoVR2.unity
+    guid: 6459dbcec66ccc6459c84bfd5621082b
+  - enabled: 1
+    path: Assets/Scenes/Toggle_Scene.unity
+    guid: 1c29ced32ae8ad640930d9e18c5fd787
+  - enabled: 1
+    path: Assets/Scenes/3DLevel1.unity
+    guid: a75ac62997784834a922906d76e380d6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 58fb9f39676fbdf449196aa2f3d55538
